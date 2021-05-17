@@ -1,4 +1,4 @@
-# Calculator
+# 📱 Calculator
 
 Project developed as an object of study of the course "React Native: Develop Native APPs for Android and iOS" using Expo.
 
